@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-  Name = "Arsenal GUI",
+  Name = "Arsenal GUI | Shadow Hub",
   LoadingTitle = "Loading Arsenal GUI",
   LoadingSubtitle = "D4rk#0001 | janis#6697",
   ConfigurationSaving = {
