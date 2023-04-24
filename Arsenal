@@ -6,8 +6,8 @@ local Window = Rayfield:CreateWindow({
   LoadingSubtitle = "D4rk#0001 | janis#6697",
   ConfigurationSaving = {
      Enabled = true,
-     FolderName = nil, -- Create a custom folder for your hub/game
-     FileName = "Shadow Hub"
+     FolderName = Shadow Hub, -- Create a custom folder for your hub/game
+     FileName = "Arsenal Config"
   },
   Discord = {
      Enabled = true,
